@@ -13,9 +13,7 @@ export one_forest_system
 export two_forest_system 
 export n_forest_rule!
 export n_forest_system
-export n_forest_system_oop
-export n_forest_tds
-export antonovsky_jacob, two_forest_jacob, n_forest_jacob!
+export antonovsky_jacob
 
 # Plotting 
 export phase_portrait
