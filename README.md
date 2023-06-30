@@ -1,6 +1,6 @@
-# CSSimjl
+# biotic-pump-complex-network
 
-Reproducing [Networks of forest ecosystems: Mathematical modeling of their biotic pump mechanism and resilience to certain patch deforestation](https://www.sciencedirect.com/science/article/pii/S1476945X20300386) as part of UvA's Complex System Simulation 2023 course. 
+Reproducing [Networks of forest ecosystems: Mathematical modeling of their biotic pump mechanism and resilience to certain patch deforestation](https://www.sciencedirect.com/science/article/pii/S1476945X20300386) as part of UvA's Complex System Simulation 2023 course.
 
 The `notebooks` folder contains selected figures reproduced from the paper, the `src` contains functions for implementing the model, and the `scripts` folder contains a plotting and simulation file.
 
@@ -19,7 +19,7 @@ tar zxvf julia-1.9.1-linux-x86_64.tar.gz
 Then edit your `~/.bashrc` file and add `export PATH="$PATH:~/julia-1.9.1/bin"`
 to the end of the file. Note that you could replace the `~` in the path you
 export to the `PATH` variable with `/home/<INSERT YOUR USERNAME>`. Finally,
-`source ~/.bashrc` and then check to see that the Julia REPL work
+`source ~/.bashrc` and then check to see that the Julia REPL works
 by typing `julia`.
 
 ## Usage
